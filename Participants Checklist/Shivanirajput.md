@@ -1,11 +1,14 @@
-(Ritika Jaiswal) - Checklist
+# (Shivani Rajput) - Checklist
 This is the template for participants' checklist. You can create a checklist in this format with yourName, and make PR to keep it updated.
 
-## 1. Javascript essentials:  
-- [x] Javascript Basics  
+## 1. Javascript essentials:
+
+- [x] Javascript Basics
 - [x] Asynchronous Javascript
 
-## 2. Intro to NodeJS  
+ 
+ ## 2. Intro to NodeJS
+
 - [x] Crash course (Module 2-8)
 - [x] What is Node JS?
 - [x] What can we do with NodeJS?
@@ -43,15 +46,3 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] GET/POST/… req
 - [x] Request body
 - [x] Query & Params
-
-## 9. Connecting Database with Express
-- [x] What and why of DB
-- [x] Types of DB 
-- [x] MongoDB, MongoDB Compass, MongoDB Atlas 
-- [x] CRUD Operating with MongoDB
-- [x] Crash Course (Module 9-11)
-- [x] Connecting NodeJS with MongoDB
-- [x] What is ORM/ODM
-- [x] Using Mongoose ODM 
-- [x] Model View Controllers
-- [x] Relations in MongoDB
